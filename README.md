@@ -134,19 +134,6 @@ Business Insights
 
 ---
 
-## 📁 Repository Structure
-
-```
-HR-Analytics-Dashboard-Employee-Attrition
-│
-├── README.md
-├── HR_Analytics.csv
-├── HR ANALYTICS DASHBOARD.pbix
-└── screenshots/
-```
-
----
-
 ## 🎯 Project Outcome
 
 This project demonstrates:
