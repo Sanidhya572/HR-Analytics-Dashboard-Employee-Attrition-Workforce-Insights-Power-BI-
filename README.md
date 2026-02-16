@@ -101,9 +101,7 @@ The dashboard is designed for intuitive business decision-making and executive-l
 
 _Add exported PNG screenshots in the `screenshots/` folder and link below_
 
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/09ef6af8-90a7-4597-9a0a-64fdb60431c0" />
-
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/19c4b90a-2195-456a-bc42-09b49c2500a7" />
+<img width="728" height="426" alt="Dashboard " src="https://github.com/user-attachments/assets/f931355d-c31b-4964-92dc-cce63169d345" />
 
 
 ## 💡 Key Business Insights
